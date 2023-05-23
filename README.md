@@ -10,7 +10,7 @@ Hi! I'm Rodrigo, Full-stack Software Engineer, amateur photographer, and lover o
 <br>
 
 
-- 🔭 I’m currently seeking work, so if you want to hire an adventure seeker with hunger to learn and grow more, I'm your guy 🙋🏻‍♂️
+- 🔭 I’m currently seeking work, so if you want to hire a friendly adventure seeker with hunger to learn and grow more, I'm your guy 🙋🏻‍♂️
 - 🌱 Currently learning Svelte and messing around with AI 🤖 
 - 💬 Don't hesitate to reach out! I love creating new connections 🤜🤛
 - 🌎 More about me: I have traveled to 19 countries, the highest mountain peak I've conquered sat at 5,350 meters, and I completed the 5 day Salkantay Trek to Machu Picchu 🥾
