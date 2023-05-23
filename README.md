@@ -1,5 +1,5 @@
 <div align='center'>
-![_Rodrigo Alba ](https://github.com/rodrigoqalba/rodrigoalba/blob/main/_DSC4080-1.jpg)
+<img src="_DSC4080-1.jpg" alt="banner" width='50%'/>
 </div>
 <br>
 <div align='center'>
