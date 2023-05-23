@@ -4,7 +4,7 @@
 <br>
 <div align='center'>
 
-Hi! I'm Rodrigo, Full-stack Software Engineer, amateur photographer, and lover of all extreme outdoor activities. I am a graduate of the Flatiron School with a background in Business and entrepreneurship.
+Hi! I'm Rodrigo, Full-stack Software Engineer, amateur photographer, and lover of all extreme outdoor activities. I am a graduate of the Flatiron School with a background in Business and entrepreneurship.  After my entrepenurial ventures, I realized the sky was the limit, and that's when I decided to learn a skill to truly help me reach the sky, that skill of course being software development.  I learn, build, and improve with the idea of making an impact in the world, creating tech that helps the world is my utmost inspiration 💡
   
 </div>
 <br>
