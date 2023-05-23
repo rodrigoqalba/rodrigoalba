@@ -1,5 +1,5 @@
 <div align='center'>
-![_Rodrigo Alba ]()
+![_Rodrigo Alba ](https://github.com/rodrigoalba/rodrigoalba/blob/main/_DSC4090-1.jpg?raw=true)
 </div>
 <br>
 <div align='center'>
