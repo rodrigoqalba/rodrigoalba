@@ -15,7 +15,7 @@ Hi! I'm Rodrigo, Full-stack Software Engineer, amateur photographer, and lover o
 - 💬 Don't hesitate to reach out! I love creating new connections 🤜🤛
 - ⚡ Fun Facts: I have traveled to 19 countries, the highest mountain peak I've conquered sat at 5,350 meters, and I completed the 5 day Salkantay Trek to Machu Picchu 🥾
 
-[Portfolio]()
+[Portfolio](https://rodrigoqalba.github.io/portfolio/)
 
 [LinkedIn Profile](https://www.linkedin.com/in/rodrigoqalba/)
 
